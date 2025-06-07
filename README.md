@@ -23,3 +23,5 @@ An interactive and animated digital birthday bouquet web app created as a heartf
 4. Enjoy the personalized birthday greeting for Isabella!
 
 ## 📁 Project Structure
+
+live on: https://sjainthuli.github.io/Creativity/Bella/
